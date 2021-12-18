@@ -1,6 +1,6 @@
 openapi: 3.0.0
 info:
-  version: 'schema'
+  version: 'draft'
   title: 'api-2'
 servers:
   - url: 'localhost:3000'
