@@ -3,11 +3,11 @@ info:
   version: 'draft'
   title: 'api-2'
 servers:
-  - url: 'localhost:8000'
+  - url: 'localhost:3000'
 paths:
   /user:
     get:
-      summary: 'Sample endpoint: Returns nothing'
+      summary: 'Sample endpoint: Returns details about a particular user'
       operationId: listUser
       tags:
         - user
